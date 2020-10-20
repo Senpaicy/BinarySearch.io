@@ -1,3 +1,4 @@
+LINK: https://www.hackerrank.com/contests/coding-gym-rm1018/challenges/find-the-missing-value/problem 
 Given an unsorted array of n - 1 elements, it is missing exactly one element from the sequence of 1 to n. Find the missing element.
 
 Input Format
